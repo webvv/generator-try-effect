@@ -1,0 +1,25 @@
+{
+  "name": "generator-try-effect",
+  "version": "1.0.0",
+  "description": "Yeoman generator to scaffold an ephemeral playground for quickly experimenting effect",
+  "keywords": [
+    "yeoman-generator",
+    "try",
+    "effect",
+    "webvv"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webvv/generator-try-effect.git"
+  },
+  "license": "MIT",
+  "author": "Sahand Javid",
+  "main": "generators/app/index.js",
+  "dependencies": {
+    "yeoman-generator": "7.5.1"
+  },
+  "files": [
+    "generators"
+  ]
+}
